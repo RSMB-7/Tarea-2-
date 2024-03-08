@@ -1,0 +1,222 @@
+.principal
+{
+    background-color: black;
+    border-color: white;
+    width: 1440px;
+    height: 1050px;
+    margin: auto;
+}
+.contenedor1
+{
+    background-color: rgb(0, 255, 21);
+    width: 450px;
+    height: 1050px;
+}
+.caja1
+{
+    background-color: violet;
+    width: 130px;
+    height: 350px;
+    margin: 5px;
+    margin-top: -10px;
+}
+.caja2
+{
+    background-color: violet;
+    width: 130px;
+    height: 350px;
+    margin-left: 150px;
+    margin-top:-353px;
+}
+.caja3
+{
+    background-color: violet;
+    width: 130px;
+    height: 350px;
+    margin-left: 295px;
+    margin-top:-350px;
+}
+.caja4 
+{
+    background-color: violet;
+    width: 415px;
+    height: 100px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.caja5
+{
+    background-color: violet;
+    width: 415px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.caja6
+{
+    background-color: violet;
+    width: 415px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.caja7 
+{
+    background-color: violet;
+    width: 130px;
+    height: 340px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.caja8
+{
+    background-color: violet;
+    width: 130px;
+    height: 340px;
+    margin-top: -340px;
+    margin-left: 150px;
+}
+.caja9
+{
+    background-color: violet;
+    width: 130px;
+    height: 340px;
+    margin-top: -340px;
+    margin-left: 290px;
+}
+.contenedor2
+{
+    background-color: rgb(0, 255, 21);
+    width: 450px;
+    height: 1048px;
+    margin-left: 465px;
+    margin-top: -1055px;
+
+}
+.caja10
+{
+    background-color: violet;
+    width: 430px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.caja11
+{
+    background-color: violet;
+    width: 430px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.caja12
+{
+    background-color: violet;
+    width: 430px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.caja13
+{
+    background-color: violet;
+    width: 430px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 10px;
+}   
+.caja14
+{
+    background-color: violet;
+    width: 430px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 10px;
+}   
+.caja15
+{
+    background-color: violet;
+    width: 430px;
+    height: 150px;
+    margin-top: 25px;
+    margin-left: 10px;
+}   
+.contenedor3
+{
+    background-color: rgb(0, 255, 21);
+    width: 450px;
+    height: 1054px;
+    margin-left: 930px;
+    margin-top: -1055px;
+}
+.caja16
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 10px;
+}
+.caja17
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.caja18
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 10px;
+    margin-top:20px
+}
+.caja19
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 145px;
+    margin-top:-1030px
+}
+.caja20
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 145px;
+    margin-top: 20px;
+}
+.caja21
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 145px;
+    margin-top: 20px;
+}
+.caja22
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 280px;
+    margin-top: -1030px;
+}
+.caja23
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+.caja24
+{
+    background-color: violet;
+    width: 120px;
+    height: 330px;
+    margin-left: 280px;
+    margin-top: 20px;
+}
